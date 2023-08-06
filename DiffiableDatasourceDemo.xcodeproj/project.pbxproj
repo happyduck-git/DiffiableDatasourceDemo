@@ -13,6 +13,7 @@
 		24DB219C2A7F9D8800AE0174 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24DB219A2A7F9D8800AE0174 /* Main.storyboard */; };
 		24DB219E2A7F9D8900AE0174 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24DB219D2A7F9D8900AE0174 /* Assets.xcassets */; };
 		24DB21A12A7F9D8900AE0174 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24DB219F2A7F9D8900AE0174 /* LaunchScreen.storyboard */; };
+		24DB21A92A7F9DD000AE0174 /* SecondSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DB21A82A7F9DD000AE0174 /* SecondSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24DB219D2A7F9D8900AE0174 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24DB21A02A7F9D8900AE0174 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24DB21A22A7F9D8900AE0174 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24DB21A82A7F9DD000AE0174 /* SecondSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				24DB219D2A7F9D8900AE0174 /* Assets.xcassets */,
 				24DB219F2A7F9D8900AE0174 /* LaunchScreen.storyboard */,
 				24DB21A22A7F9D8900AE0174 /* Info.plist */,
+				24DB21A82A7F9DD000AE0174 /* SecondSection.swift */,
 			);
 			path = DiffiableDatasourceDemo;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				24DB21992A7F9D8800AE0174 /* ViewController.swift in Sources */,
 				24DB21952A7F9D8800AE0174 /* AppDelegate.swift in Sources */,
 				24DB21972A7F9D8800AE0174 /* SceneDelegate.swift in Sources */,
+				24DB21A92A7F9DD000AE0174 /* SecondSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
